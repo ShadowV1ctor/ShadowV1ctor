@@ -1,6 +1,5 @@
 ## Technologies & Tools
 - Python 
-- Web scraping 
 - VS Code 
 
 ## Contact
