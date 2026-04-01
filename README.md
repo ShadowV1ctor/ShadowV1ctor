@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile
-
 ## Technologies & Tools
 - Python 
 - Web scraping 
