@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-Hi there! I’m Shadow
+Hi, I’m Shadow
 
 ## 🔧 Technologies & Tools
 - Python 🐍
